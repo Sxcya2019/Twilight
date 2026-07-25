@@ -14,9 +14,7 @@ I will cover 5 different ways to deploy your site. You only need to pick one. If
 Before you start, make sure you have:
 
 - Your Twilight Astro project on your computer
-
 - A GitHub account (free)
-
 - Your project pushed to a GitHub repository
 
 ---
@@ -48,10 +46,6 @@ Your site URL will be: [https://your-username.github.io](https://your-username.g
 **Optional: Use your own domain**
 
 Edit the file `public/CNAME` in your project. Write your domain name inside, for example:
-
-📝Write
-
-📋复制
 
 ```
 blog.yourname.com
@@ -157,7 +151,7 @@ server {
 }
 ```
 
-   
+
 
 For **Apache**, point the document root to your `dist` folder. No extra setup is needed because it is a static site.
 
