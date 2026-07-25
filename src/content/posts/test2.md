@@ -1,11 +1,10 @@
 ---
-title: test2
-published: 2026-07-25T16:16:00.000+08:00
-updated: 2026-07-25T16:16:00.000+08:00
-description: test2
-tags:
-  - test2
-category: test2
+title: 搭建Astro博客教程丨Cloudflare worker/pages丨优选域名
+published: 2026-07-25
+updated: 2026-07-25
+description: 2026.7.25
+category:
+  - Tutorials
 draft: false
 ---
 test2
