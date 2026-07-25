@@ -4,7 +4,7 @@ title: About
 
 # About This Site
 
-Twilight is a CMS integrated static blog template built with [Astro](https://astro.build) framework.
+work.mymutsumi.com is a personal website for mymutsumi, a student at RWTH Aachen University. It is built using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
 
 ::github{repo="Spr-Aachen/Twilight"}
 
